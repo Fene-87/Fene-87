@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Fene-87
-- 👀 I’m interested in Java and Android Developent
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full stack web development.
+- 🌱 I’m currently learning at Microverse.
 
 <!---
 Fene-87/Fene-87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
