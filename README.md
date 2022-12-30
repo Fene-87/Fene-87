@@ -1,4 +1,4 @@
-- 👋 <Hi, I’m @Fene-87 />
+- 👋 <Hi, I’m Mark Fenekayas />
 - 👀 <I’m interested in Full stack web development. />
 - 🌱 <I’m currently learning at Microverse. />
 
