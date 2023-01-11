@@ -1,4 +1,4 @@
-- 👋 <Hi, I’m Mark Fenekayas />
+- 👋 const name = I’m Mark Fenekayas
 - 👀 <I’m interested in Full stack web development. />
 - 🌱 <I’m currently learning at Microverse. />
 
