@@ -1,6 +1,6 @@
-- 👋 const name = Mark Fenekayas
-- 👀 <I’m interested in Full stack web development. />
-- 🌱 <I’m currently learning at Microverse. />
+- const name = Mark Fenekayas👋
+- <I’m interested in Full stack web development. />
+- <I’m currently learning at Microverse. />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fene-87)](https://github.com/anuraghazra/github-readme-stats)
 <!---
