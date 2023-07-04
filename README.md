@@ -6,6 +6,8 @@ const name = Mark Fenekayas👋;
 
 <I’m currently learning at Microverse. />
 
+<I’m looking for opportunities to work on exciting projects. />
+
 <If my football skills were as good as my coding skills, then I think I would be playing in the Premier League😁 />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fene-87)](https://github.com/anuraghazra/github-readme-stats)
