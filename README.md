@@ -4,7 +4,7 @@ const name = Mark Fenekayas👋;
 
 <I’m interested in Full stack web development. />
 
-<I have completed coursework at Microverse. />
+<I am a Microverse Alumni />
 
 <I’m looking for opportunities to work on exciting projects. />
 
